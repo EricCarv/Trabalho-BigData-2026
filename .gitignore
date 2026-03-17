@@ -1,0 +1,10 @@
+.
+.pyc
+.vscode/
+.run/*
+/venv/
+/.venv/
+!*.gitkeep
+/.idea/
+TrabalhoNLP/.env
+.idea/
