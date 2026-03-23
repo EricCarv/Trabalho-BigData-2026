@@ -4,6 +4,8 @@
 .run/*
 /venv/
 /.venv/
+/venv1/
+/.venv1/
 !*.gitkeep
 /.idea/
 TrabalhoNLP/.env
